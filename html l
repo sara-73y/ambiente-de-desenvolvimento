@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Portfólio</title>
+</head>
+<body>
+    <main>
+        <h1>Eleve seu negócio digital a outro nível</h1>
+        <p>Joana Santos, Desenvolvedora Front-end</p>
+        <button>Instagram</button>
+        <button>Github</button>
+        <img src="minha-imagem.jpg" alt="Desenvolvedora">
+    </main>
+</body>
+</html>
+h1 {
+    color: white;
+    /* Adicionar mais estilos conforme necessário */
+}
+p {
+    color: white;
+    /* Adicionar mais estilos conforme necessário */
+}
+button {
+    background-color: ciano;
+    color: white;
+    border: none;
+    /* Adicionar mais estilos conforme necessário */
+}
+img {
+    /* Adicionar estilos para formatar a imagem */
+}
+/* Adicionar mais estilos conforme necessário */
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>Meu Portfólio</title>
+</head>
+<body>
+    <header>
+        <!-- Menu ou Logotipo -->
+    </header>
+    <main>
+        <h1>Título do Portfólio</h1>
+        <p>Descrição</p>
+        <!-- Botões e Imagem -->
+    </main>
+    <footer>
+        <!-- Informações de Contato ou Direitos Autorais -->
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio de [Seu Nome]</title>
+</head>
+<body>
+    <!-- Estrutura da página -->
+</body>
+</html>
+<h1>Eleve seu negócio digital a outro nível <strong>com um Front-end de qualidade!</strong></h1>
+<p>Olá! Sou [Seu Nome], [sua profissão ou descrição]. Ajudo [seu público-alvo] a [seu objetivo]. Vamos conversar?</p>
+<a href="https://instagram.com/seuusuario">Instagram</a>
+<a href="https://github.com/seuusuario">Github</a>
+<img src="caminho-para-sua-imagem.jpg" alt="Descrição da imagem">
