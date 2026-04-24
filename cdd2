@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: #F6F6F6;
+}
+body {
+    background-color: purple;
+    color: #00ffff;
+}
+body {
+    background-color: #000000;
+    color: #F6F6F6;
+}
