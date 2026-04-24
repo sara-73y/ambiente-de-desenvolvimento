@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+//código omitido
+
+<body>
+    <header></header>
+    <main>
+
+//código omitido
+
+        <a href="https://instagram.com/rafaballerini">Instagram</a>
+        <a href="https://github.com/guilhermeonrails">Github</a>
+        <img src="imagem.png" alt="Foto da Joana Santos programando">
+    </main>
+    <footer></footer>
+</body>
+</html>
